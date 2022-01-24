@@ -1,6 +1,6 @@
 # Kami5-BUILDABLE-SRC
 ------
-Not all done
+*Not done yet*
 ------
 
 I don't know how to do.
